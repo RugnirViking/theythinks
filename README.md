@@ -4,3 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 see it in action at https://rugnirviking.github.io/theythinks/
 it's a pretty cool animated svg gradient , I think it's very pretty
+![screenshot](Caputre.PNG?raw=true "Screenshot")
